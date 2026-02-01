@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hello there, I'm Eunice Kyanda👋
 
-<!--
-**EuniceKyanda/EuniceKyanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Economics and Business student with a strong interest in how economic theory explains real-world social and financial behavior, markets, and global systems. I view economics as a way to interpret current events by combining quantitative analysis with social and institutional context to understand how resources are allocated and decisions are made.
 
-Here are some ideas to get you started:
+My academic interests include behavioral and financial economics—where psychology, data, and markets intersect—as well as international trade, particularly how incentives, policy frameworks, and market structures influence cross-border outcomes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am drawn to work that blends economic analysis, research, and practical application, whether in consulting, finance, trade, business strategy, or entrepreneurial environments. I value critical thinking, evidence-based decision-making, and understanding the broader context behind economic outcomes.
+
+## Skills
+- R
+- Excel
+- Power BI (learning)
+- SQL (basic)
+- Data Analysis & Visualization
+- Case Competition Strategy
+- Customer & Market Analysis
+
+## Projects
+- Customer Analytics Project (R & Excel)  
+- Beauty Industry Case Competition  
+- Power BI Customer Dashboard (in progress)
+
+Let’s connect!
+
