@@ -10,7 +10,6 @@ I am drawn to work that blends economic analysis, research, and practical applic
 - R
 - Excel
 - Power BI (learning)
-- SQL (learning)
 - Data Analysis & Visualization
 - Case Competition Strategy
 - Customer & Market Analysis
